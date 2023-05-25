@@ -8,6 +8,8 @@ grouped = True
 
 authors = {
     "CSML-IIT-UCL":dict(name="CSML",max_repos=None, excluded_repos=[], selected_repos=None),
+
+    # users to fetch
     "prolearner":dict(name="Riccardo Grazzi", max_repos=5, excluded_repos=["procedural-planet"], selected_repos=None),
     "Pietronvll":dict(name="Pietro Novelli", max_repos=5, excluded_repos=[], selected_repos=None),
     "IsakFalk":dict(name="Isak Falk", max_repos=5, excluded_repos=[], selected_repos=["learn2learn"]),
@@ -17,7 +19,7 @@ authors = {
 }
 
 def generate_readme_grouped(authors):
-    readme_content = "# Popular Repositories\n\n"
+    readme_content = "# Popular Repos\n\n"
 
     repositories = []
     for username, author in authors.items():
@@ -51,7 +53,7 @@ def generate_readme_grouped(authors):
 
     readme_content += "\n"
 
-    with open("README.md", "w") as readme_file:
+    with open("profile/README.md", "w") as readme_file:
         readme_file.write(readme_content)
 
 def generate_readme(authors):
@@ -82,7 +84,7 @@ def generate_readme(authors):
 
         readme_content += "\n"
 
-    with open("README.md", "w") as readme_file:
+    with open("profile/README.md", "w") as readme_file:
         readme_file.write(readme_content)
 
 
