@@ -2,7 +2,8 @@ from collections import OrderedDict
 
 import requests
 
-max_total_repos = 15
+max_total_repos = 150
+max_repos = 3
 
 grouped = True
 
@@ -10,12 +11,19 @@ authors = {
     "CSML-IIT-UCL":dict(name="CSML",max_repos=None, excluded_repos=[".github"], selected_repos=None),
 
     # users to fetch
-    "prolearner":dict(name="Riccardo Grazzi", max_repos=5, excluded_repos=["procedural-planet"], selected_repos=None),
-    "Pietronvll":dict(name="Pietro Novelli", max_repos=5, excluded_repos=[], selected_repos=None),
-    "IsakFalk":dict(name="Isak Falk", max_repos=5, excluded_repos=[], selected_repos=["learn2learn"]),
-    "vladi-iit":dict(name="Vladimir Kostic", max_repos=5, excluded_repos=[], selected_repos=None),
-    "RuohanW":dict(name="Ruohan Wang", max_repos=5, excluded_repos=[], selected_repos=None),
-    "LeonardoCella":dict(name="Leonardo Cella", max_repos=5, excluded_repos=[], selected_repos=None),
+    "prolearner":dict(name="Riccardo Grazzi", max_repos=max_repos, excluded_repos=["procedural-planet",
+                                                                                   "LearningToCompareTF"],
+                      selected_repos=None),
+
+    "Pietronvll":dict(name="Pietro Novelli", max_repos=max_repos, excluded_repos=[], selected_repos=None),
+
+    "IsakFalk":dict(name="Isak Falk", max_repos=max_repos, excluded_repos=[], selected_repos=[]),
+    "vladi-iit":dict(name="Vladimir Kostic", max_repos=max_repos, excluded_repos=[], selected_repos=None),
+    "RuohanW":dict(name="Ruohan Wang", max_repos=max_repos, excluded_repos=[], selected_repos=None),
+    "LeonardoCella":dict(name="Leonardo Cella", max_repos=max_repos, excluded_repos=["LeonardoCella.github.io"],
+                         selected_repos=None),
+
+    "Danfoa":dict(name="Daniel Ordonez", max_repos=max_repos, excluded_repos=[], selected_repos=None),
 }
 
 def generate_readme_grouped(authors):
@@ -97,6 +105,7 @@ def get_repositories(author):
 
     if response.status_code == 200:
         repositories = response.json()
+        repositories = [repo for repo in repositories if not repo["fork"]] # exclude forks
         return repositories
     else:
         print(f"Failed to retrieve repositories for {author}. Error: {response.text}")
