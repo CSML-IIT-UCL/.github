@@ -2,18 +2,22 @@ from collections import OrderedDict
 
 import requests
 
-max_total_repos = 10
+max_total_repos = 15
 
 grouped = True
 
 authors = {
-    "CSML-IIT-UCL":dict(name="CSML",max_repos=None, excluded_repos=[]),
-    "prolearner":dict(name="Riccardo Grazzi", max_repos=5, excluded_repos=["procedural-planet"]),
-    "Pietronvll":dict(name="Pietro Novelli", max_repos=5, excluded_repos=[]),
+    "CSML-IIT-UCL":dict(name="CSML",max_repos=None, excluded_repos=[], selected_repos=None),
+    "prolearner":dict(name="Riccardo Grazzi", max_repos=5, excluded_repos=["procedural-planet"], selected_repos=None),
+    "Pietronvll":dict(name="Pietro Novelli", max_repos=5, excluded_repos=[], selected_repos=None),
+    "IsakFalk":dict(name="Isak Falk", max_repos=5, excluded_repos=[], selected_repos=["learn2learn"]),
+    "vladi-iit":dict(name="Vladimir Kostic", max_repos=5, excluded_repos=[], selected_repos=None),
+    "RuohanW":dict(name="Ruohan Wang", max_repos=5, excluded_repos=[], selected_repos=None),
+    "LeonardoCella":dict(name="Leonardo Cella", max_repos=5, excluded_repos=[], selected_repos=None),
 }
 
 def generate_readme_grouped(authors):
-    readme_content = "# CSML Repositories\n\n"
+    readme_content = "# Popular Repositories\n\n"
 
     repositories = []
     for username, author in authors.items():
@@ -24,7 +28,10 @@ def generate_readme_grouped(authors):
             r['displayed_owner'] = author['name']
             r['owner_url'] = author_url
             if i < max_repos and r["name"] not in author['excluded_repos']:
-                repositories.append(r)
+                if author['selected_repos'] is None:
+                    repositories.append(r)
+                elif r["name"] in author['selected_repos']:
+                    repositories.append(r)
 
     repositories_to_show = sort_repositories_by_stars(repositories)[:max_total_repos]
 
