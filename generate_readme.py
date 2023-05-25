@@ -7,7 +7,7 @@ max_total_repos = 15
 grouped = True
 
 authors = {
-    "CSML-IIT-UCL":dict(name="CSML",max_repos=None, excluded_repos=[], selected_repos=None),
+    "CSML-IIT-UCL":dict(name="CSML",max_repos=None, excluded_repos=[".github"], selected_repos=None),
 
     # users to fetch
     "prolearner":dict(name="Riccardo Grazzi", max_repos=5, excluded_repos=["procedural-planet"], selected_repos=None),
