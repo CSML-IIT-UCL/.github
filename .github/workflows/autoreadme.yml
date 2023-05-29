@@ -11,17 +11,17 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
+        
+      - name: Change directory
+        run: cd ./
 
-      - name: Set up Node.js
-        uses: actions/setup-node@v2
+      - name: Set up Python
+        uses: actions/setup-python@v2
         with:
-          node-version: 16
-
-      - name: Install dependencies
-        run: npm install
+          python-version: 3.x
 
       - name: Execute script
-        run: node generate_readme.js
+        run: python generate_readme.py
 
       - name: Commit and push changes
         run: |
