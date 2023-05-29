@@ -11,9 +11,6 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
-        
-      - name: Change directory
-        run: cd ./
 
       - name: Set up Python
         uses: actions/setup-python@v2
