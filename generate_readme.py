@@ -20,10 +20,9 @@ authors = {
     "IsakFalk":dict(name="Isak Falk", max_repos=max_repos, excluded_repos=[], selected_repos=[]),
     "vladi-iit":dict(name="Vladimir Kostic", max_repos=max_repos, excluded_repos=[], selected_repos=None),
     "RuohanW":dict(name="Ruohan Wang", max_repos=max_repos, excluded_repos=[], selected_repos=None),
-    "LeonardoCella":dict(name="Leonardo Cella", max_repos=max_repos, excluded_repos=["LeonardoCella.github.io"],
-                         selected_repos=None),
-
-    "Danfoa":dict(name="Daniel Ordonez", max_repos=max_repos, excluded_repos=[], selected_repos=None),
+    "LeonardoCella":dict(name="Leonardo Cella", max_repos=max_repos, excluded_repos=[],
+                         selected_repos=["featureLearningBan", "DelayDependentPayoffs"]),
+    "Danfoa": dict(name="Daniel Ordonez", max_repos=max_repos, excluded_repos=[], selected_repos=["MorphoSymm"]),
 }
 
 def generate_readme_grouped(authors):
@@ -34,13 +33,13 @@ def generate_readme_grouped(authors):
         author_url = get_author_profile_url(username)
         max_repos = author['max_repos'] if author['max_repos'] is not None else 10000
         repos = sort_repositories_by_stars(get_repositories(username))
+        j = 0
         for i, r in enumerate(repos):
             r['displayed_owner'] = author['name']
             r['owner_url'] = author_url
-            if i < max_repos and r["name"] not in author['excluded_repos']:
-                if author['selected_repos'] is None:
-                    repositories.append(r)
-                elif r["name"] in author['selected_repos']:
+            if j < max_repos and r["name"] not in author['excluded_repos']:
+                if author['selected_repos'] is None or r["name"] in author['selected_repos']:
+                    j+=1
                     repositories.append(r)
 
     repositories_to_show = sort_repositories_by_stars(repositories)[:max_total_repos]
