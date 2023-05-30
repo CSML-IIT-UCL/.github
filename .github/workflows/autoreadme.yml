@@ -17,6 +17,9 @@ jobs:
         with:
           python-version: 3.x
 
+      - name: Install requests
+        run: pip install requests
+
       - name: Execute script
         run: python generate_readme.py
 
