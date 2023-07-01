@@ -6,7 +6,7 @@
 - [magan](https://github.com/RuohanW/magan) - ⭐ 9 🍴 4 - [Ruohan Wang](https://github.com/RuohanW)
 - [kooplearn](https://github.com/CSML-IIT-UCL/kooplearn) - ⭐ 8 - [CSML](https://github.com/CSML-IIT-UCL)
 - [Tasml](https://github.com/RuohanW/Tasml) - ⭐ 6 🍴 1 - [Ruohan Wang](https://github.com/RuohanW)
-- [MorphoSymm](https://github.com/Danfoa/MorphoSymm) - ⭐ 5 🍴 1 - [Daniel Ordonez](https://github.com/Danfoa)
+- [MorphoSymm](https://github.com/Danfoa/MorphoSymm) - ⭐ 6 🍴 1 - [Daniel Ordonez](https://github.com/Danfoa)
 - [RMOT](https://github.com/CSML-IIT-UCL/RMOT) - ⭐ 3 - [CSML](https://github.com/CSML-IIT-UCL)
 - [onlineLTL](https://github.com/prolearner/onlineLTL) - ⭐ 3 🍴 1 - [Riccardo Grazzi](https://github.com/prolearner)
 - [bioptexps](https://github.com/CSML-IIT-UCL/bioptexps) - ⭐ 1 - [CSML](https://github.com/CSML-IIT-UCL)
