@@ -12,6 +12,7 @@
 - [bioptexps](https://github.com/CSML-IIT-UCL/bioptexps) - ⭐ 2 - [CSML](https://github.com/CSML-IIT-UCL)
 - [GMFbandits](https://github.com/CSML-IIT-UCL/GMFbandits) - ⭐ 1 - [CSML](https://github.com/CSML-IIT-UCL)
 - [ml_confs](https://github.com/pietronvll/ml_confs) - [Pietro Novelli](https://github.com/Pietronvll)
+- [mplstyler](https://github.com/pietronvll/mplstyler) - [Pietro Novelli](https://github.com/Pietronvll)
 - [RMOT](https://github.com/vladi-iit/RMOT) - [Vladimir Kostic](https://github.com/vladi-iit)
 - [DelayDependentPayoffs](https://github.com/LeonardoCella/DelayDependentPayoffs) - [Leonardo Cella](https://github.com/LeonardoCella)
 - [featureLearningBan](https://github.com/LeonardoCella/featureLearningBan) - [Leonardo Cella](https://github.com/LeonardoCella)
