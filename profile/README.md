@@ -4,7 +4,7 @@
 - [hyper-representation](https://github.com/prolearner/hyper-representation) - ⭐ 31 🍴 9 - [Riccardo Grazzi](https://github.com/prolearner)
 - [RED](https://github.com/RuohanW/RED) - ⭐ 28 🍴 6 - [Ruohan Wang](https://github.com/RuohanW)
 - [MorphoSymm](https://github.com/Danfoa/MorphoSymm) - ⭐ 26 🍴 2 - [Daniel Ordonez](https://github.com/Danfoa)
-- [kooplearn](https://github.com/CSML-IIT-UCL/kooplearn) - ⭐ 23 🍴 5 - [CSML](https://github.com/CSML-IIT-UCL)
+- [kooplearn](https://github.com/CSML-IIT-UCL/kooplearn) - ⭐ 24 🍴 5 - [CSML](https://github.com/CSML-IIT-UCL)
 - [magan](https://github.com/RuohanW/magan) - ⭐ 9 🍴 4 - [Ruohan Wang](https://github.com/RuohanW)
 - [Tasml](https://github.com/RuohanW/Tasml) - ⭐ 6 🍴 1 - [Ruohan Wang](https://github.com/RuohanW)
 - [RMOT](https://github.com/CSML-IIT-UCL/RMOT) - ⭐ 3 - [CSML](https://github.com/CSML-IIT-UCL)
