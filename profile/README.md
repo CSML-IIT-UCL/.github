@@ -10,7 +10,7 @@
 - [onlineLTL](https://github.com/prolearner/onlineLTL) - ⭐ 3 🍴 1 - [Riccardo Grazzi](https://github.com/prolearner)
 - [bioptexps](https://github.com/CSML-IIT-UCL/bioptexps) - ⭐ 2 - [CSML](https://github.com/CSML-IIT-UCL)
 - [GMFbandits](https://github.com/CSML-IIT-UCL/GMFbandits) - ⭐ 1 - [CSML](https://github.com/CSML-IIT-UCL)
-- [powr](https://github.com/CSML-IIT-UCL/powr) - [CSML](https://github.com/CSML-IIT-UCL)
+- [powr](https://github.com/CSML-IIT-UCL/powr) - ⭐ 1 - [CSML](https://github.com/CSML-IIT-UCL)
 - [DPNets](https://github.com/pietronvll/DPNets) - [Pietro Novelli](https://github.com/Pietronvll)
 - [ml_confs](https://github.com/pietronvll/ml_confs) - [Pietro Novelli](https://github.com/Pietronvll)
 - [pnstyler](https://github.com/pietronvll/pnstyler) - [Pietro Novelli](https://github.com/Pietronvll)
