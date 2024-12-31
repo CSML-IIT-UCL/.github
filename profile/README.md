@@ -16,6 +16,7 @@
 - [ml_confs](https://github.com/pietronvll/ml_confs) - [Pietro Novelli](https://github.com/Pietronvll)
 - [operator_learning](https://github.com/pietronvll/operator_learning) - [Pietro Novelli](https://github.com/Pietronvll)
 - [RMOT](https://github.com/vladi-iit/RMOT) - [Vladimir Kostic](https://github.com/vladi-iit)
+- [vladi-iit.github.io](https://github.com/vladi-iit/vladi-iit.github.io) - [Vladimir Kostic](https://github.com/vladi-iit)
 - [DelayDependentPayoffs](https://github.com/LeonardoCella/DelayDependentPayoffs) - [Leonardo Cella](https://github.com/LeonardoCella)
 - [featureLearningBan](https://github.com/LeonardoCella/featureLearningBan) - [Leonardo Cella](https://github.com/LeonardoCella)
 
