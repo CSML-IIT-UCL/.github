@@ -6,7 +6,7 @@
 - [RED](https://github.com/RuohanW/RED) - ⭐ 29 🍴 7 - [Ruohan Wang](https://github.com/RuohanW)
 - [magan](https://github.com/RuohanW/magan) - ⭐ 10 🍴 4 - [Ruohan Wang](https://github.com/RuohanW)
 - [Tasml](https://github.com/RuohanW/Tasml) - ⭐ 6 🍴 1 - [Ruohan Wang](https://github.com/RuohanW)
-- [linear_operator_learning](https://github.com/CSML-IIT-UCL/linear_operator_learning) - ⭐ 4 - [CSML](https://github.com/CSML-IIT-UCL)
+- [linear_operator_learning](https://github.com/CSML-IIT-UCL/linear_operator_learning) - ⭐ 5 - [CSML](https://github.com/CSML-IIT-UCL)
 - [powr](https://github.com/CSML-IIT-UCL/powr) - ⭐ 4 🍴 2 - [CSML](https://github.com/CSML-IIT-UCL)
 - [NCP](https://github.com/CSML-IIT-UCL/NCP) - ⭐ 3 🍴 1 - [CSML](https://github.com/CSML-IIT-UCL)
 - [RMOT](https://github.com/CSML-IIT-UCL/RMOT) - ⭐ 3 - [CSML](https://github.com/CSML-IIT-UCL)
