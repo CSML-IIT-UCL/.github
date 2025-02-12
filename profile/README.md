@@ -1,11 +1,11 @@
 # Popular Repos
 
 - [hypertorch](https://github.com/prolearner/hypertorch) - ⭐ 121 🍴 16 - [Riccardo Grazzi](https://github.com/prolearner)
-- [MorphoSymm](https://github.com/Danfoa/MorphoSymm) - ⭐ 63 🍴 4 - [Daniel Ordonez](https://github.com/Danfoa)
+- [MorphoSymm](https://github.com/Danfoa/MorphoSymm) - ⭐ 64 🍴 4 - [Daniel Ordonez](https://github.com/Danfoa)
 - [hyper-representation](https://github.com/prolearner/hyper-representation) - ⭐ 30 🍴 9 - [Riccardo Grazzi](https://github.com/prolearner)
 - [RED](https://github.com/RuohanW/RED) - ⭐ 29 🍴 7 - [Ruohan Wang](https://github.com/RuohanW)
 - [magan](https://github.com/RuohanW/magan) - ⭐ 10 🍴 4 - [Ruohan Wang](https://github.com/RuohanW)
-- [linear_operator_learning](https://github.com/CSML-IIT-UCL/linear_operator_learning) - ⭐ 6 - [CSML](https://github.com/CSML-IIT-UCL)
+- [linear_operator_learning](https://github.com/CSML-IIT-UCL/linear_operator_learning) - ⭐ 7 - [CSML](https://github.com/CSML-IIT-UCL)
 - [Tasml](https://github.com/RuohanW/Tasml) - ⭐ 6 🍴 1 - [Ruohan Wang](https://github.com/RuohanW)
 - [powr](https://github.com/CSML-IIT-UCL/powr) - ⭐ 4 🍴 2 - [CSML](https://github.com/CSML-IIT-UCL)
 - [NCP](https://github.com/CSML-IIT-UCL/NCP) - ⭐ 3 🍴 1 - [CSML](https://github.com/CSML-IIT-UCL)
