@@ -17,6 +17,7 @@
 - [operator_learning](https://github.com/pietronvll/operator_learning) - ⭐ 2 - [Pietro Novelli](https://github.com/Pietronvll)
 - [DPNets](https://github.com/pietronvll/DPNets) - ⭐ 1 🍴 1 - [Pietro Novelli](https://github.com/Pietronvll)
 - [encoderops](https://github.com/pietronvll/encoderops) - [Pietro Novelli](https://github.com/Pietronvll)
+- [LaRRR](https://github.com/vladi-iit/LaRRR) - [Vladimir Kostic](https://github.com/vladi-iit)
 - [RMOT](https://github.com/vladi-iit/RMOT) - [Vladimir Kostic](https://github.com/vladi-iit)
 - [vladi-iit.github.io](https://github.com/vladi-iit/vladi-iit.github.io) - [Vladimir Kostic](https://github.com/vladi-iit)
 - [DelayDependentPayoffs](https://github.com/LeonardoCella/DelayDependentPayoffs) - [Leonardo Cella](https://github.com/LeonardoCella)
