@@ -5,7 +5,7 @@
 - [hyper-representation](https://github.com/prolearner/hyper-representation) - ⭐ 29 🍴 9 - [Riccardo Grazzi](https://github.com/prolearner)
 - [RED](https://github.com/RuohanW/RED) - ⭐ 29 🍴 7 - [Ruohan Wang](https://github.com/RuohanW)
 - [linear_operator_learning](https://github.com/CSML-IIT-UCL/linear_operator_learning) - ⭐ 12 - [CSML](https://github.com/CSML-IIT-UCL)
-- [franken](https://github.com/CSML-IIT-UCL/franken) - ⭐ 10 - [CSML](https://github.com/CSML-IIT-UCL)
+- [franken](https://github.com/CSML-IIT-UCL/franken) - ⭐ 11 🍴 1 - [CSML](https://github.com/CSML-IIT-UCL)
 - [magan](https://github.com/RuohanW/magan) - ⭐ 10 🍴 4 - [Ruohan Wang](https://github.com/RuohanW)
 - [Tasml](https://github.com/RuohanW/Tasml) - ⭐ 6 🍴 1 - [Ruohan Wang](https://github.com/RuohanW)
 - [NCP](https://github.com/CSML-IIT-UCL/NCP) - ⭐ 5 🍴 2 - [CSML](https://github.com/CSML-IIT-UCL)
