@@ -4,7 +4,7 @@
 - [MorphoSymm](https://github.com/Danfoa/MorphoSymm) - ⭐ 99 🍴 5 - [Daniel Ordonez](https://github.com/Danfoa)
 - [hyper-representation](https://github.com/prolearner/hyper-representation) - ⭐ 29 🍴 9 - [Riccardo Grazzi](https://github.com/prolearner)
 - [RED](https://github.com/RuohanW/RED) - ⭐ 29 🍴 7 - [Ruohan Wang](https://github.com/RuohanW)
-- [franken](https://github.com/CSML-IIT-UCL/franken) - ⭐ 24 🍴 2 - [CSML](https://github.com/CSML-IIT-UCL)
+- [franken](https://github.com/CSML-IIT-UCL/franken) - ⭐ 24 🍴 3 - [CSML](https://github.com/CSML-IIT-UCL)
 - [linear_operator_learning](https://github.com/CSML-IIT-UCL/linear_operator_learning) - ⭐ 14 - [CSML](https://github.com/CSML-IIT-UCL)
 - [magan](https://github.com/RuohanW/magan) - ⭐ 10 🍴 4 - [Ruohan Wang](https://github.com/RuohanW)
 - [NCP](https://github.com/CSML-IIT-UCL/NCP) - ⭐ 7 🍴 2 - [CSML](https://github.com/CSML-IIT-UCL)
