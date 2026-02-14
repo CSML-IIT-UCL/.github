@@ -1,7 +1,7 @@
 # Popular Repos
 
 - [hypertorch](https://github.com/prolearner/hypertorch) - ⭐ 126 🍴 17 - [Riccardo Grazzi](https://github.com/prolearner)
-- [MorphoSymm](https://github.com/Danfoa/MorphoSymm) - ⭐ 101 🍴 5 - [Daniel Ordonez](https://github.com/Danfoa)
+- [MorphoSymm](https://github.com/Danfoa/MorphoSymm) - ⭐ 102 🍴 5 - [Daniel Ordonez](https://github.com/Danfoa)
 - [hyper-representation](https://github.com/prolearner/hyper-representation) - ⭐ 29 🍴 9 - [Riccardo Grazzi](https://github.com/prolearner)
 - [RED](https://github.com/RuohanW/RED) - ⭐ 29 🍴 7 - [Ruohan Wang](https://github.com/RuohanW)
 - [franken](https://github.com/CSML-IIT-UCL/franken) - ⭐ 24 🍴 3 - [CSML](https://github.com/CSML-IIT-UCL)
@@ -15,8 +15,8 @@
 - [bioptexps](https://github.com/CSML-IIT-UCL/bioptexps) - ⭐ 2 - [CSML](https://github.com/CSML-IIT-UCL)
 - [GMFbandits](https://github.com/CSML-IIT-UCL/GMFbandits) - ⭐ 2 - [CSML](https://github.com/CSML-IIT-UCL)
 - [DPNets](https://github.com/pietronvll/DPNets) - ⭐ 2 🍴 1 - [Pietro Novelli](https://github.com/Pietronvll)
-- [encoderops](https://github.com/pietronvll/encoderops) - ⭐ 2 - [Pietro Novelli](https://github.com/Pietronvll)
 - [operator_learning](https://github.com/pietronvll/operator_learning) - ⭐ 2 - [Pietro Novelli](https://github.com/Pietronvll)
+- [SpectraFormer](https://github.com/pietronvll/SpectraFormer) - ⭐ 2 🍴 1 - [Pietro Novelli](https://github.com/Pietronvll)
 - [LaRRR](https://github.com/vladi-iit/LaRRR) - [Vladimir Kostic](https://github.com/vladi-iit)
 - [RMOT](https://github.com/vladi-iit/RMOT) - [Vladimir Kostic](https://github.com/vladi-iit)
 - [vladi-iit.github.io](https://github.com/vladi-iit/vladi-iit.github.io) - [Vladimir Kostic](https://github.com/vladi-iit)
