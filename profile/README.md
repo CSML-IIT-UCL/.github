@@ -2,9 +2,9 @@
 
 - [hypertorch](https://github.com/prolearner/hypertorch) - ⭐ 126 🍴 17 - [Riccardo Grazzi](https://github.com/prolearner)
 - [MorphoSymm](https://github.com/Danfoa/MorphoSymm) - ⭐ 107 🍴 5 - [Daniel Ordonez](https://github.com/Danfoa)
+- [franken](https://github.com/CSML-IIT-UCL/franken) - ⭐ 29 🍴 4 - [CSML](https://github.com/CSML-IIT-UCL)
 - [hyper-representation](https://github.com/prolearner/hyper-representation) - ⭐ 29 🍴 9 - [Riccardo Grazzi](https://github.com/prolearner)
 - [RED](https://github.com/RuohanW/RED) - ⭐ 29 🍴 7 - [Ruohan Wang](https://github.com/RuohanW)
-- [franken](https://github.com/CSML-IIT-UCL/franken) - ⭐ 28 🍴 4 - [CSML](https://github.com/CSML-IIT-UCL)
 - [linear_operator_learning](https://github.com/CSML-IIT-UCL/linear_operator_learning) - ⭐ 14 - [CSML](https://github.com/CSML-IIT-UCL)
 - [magan](https://github.com/RuohanW/magan) - ⭐ 10 🍴 4 - [Ruohan Wang](https://github.com/RuohanW)
 - [NCP](https://github.com/CSML-IIT-UCL/NCP) - ⭐ 7 🍴 2 - [CSML](https://github.com/CSML-IIT-UCL)
