@@ -19,7 +19,7 @@
 - [operator_learning](https://github.com/pietronvll/operator_learning) - ⭐ 2 - [Pietro Novelli](https://github.com/Pietronvll)
 - [LaRRR](https://github.com/vladi-iit/LaRRR) - [Vladimir Kostic](https://github.com/vladi-iit)
 - [RMOT](https://github.com/vladi-iit/RMOT) - [Vladimir Kostic](https://github.com/vladi-iit)
-- [vladi-iit.github.io](https://github.com/vladi-iit/vladi-iit.github.io) - [Vladimir Kostic](https://github.com/vladi-iit)
+- [tklearn](https://github.com/vladi-iit/tklearn) - [Vladimir Kostic](https://github.com/vladi-iit)
 - [DelayDependentPayoffs](https://github.com/LeonardoCella/DelayDependentPayoffs) - [Leonardo Cella](https://github.com/LeonardoCella)
 - [featureLearningBan](https://github.com/LeonardoCella/featureLearningBan) - [Leonardo Cella](https://github.com/LeonardoCella)
 
