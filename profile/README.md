@@ -17,9 +17,9 @@
 - [GMFbandits](https://github.com/CSML-IIT-UCL/GMFbandits) - ⭐ 2 - [CSML](https://github.com/CSML-IIT-UCL)
 - [DPNets](https://github.com/pietronvll/DPNets) - ⭐ 2 🍴 1 - [Pietro Novelli](https://github.com/Pietronvll)
 - [operator_learning](https://github.com/pietronvll/operator_learning) - ⭐ 2 - [Pietro Novelli](https://github.com/Pietronvll)
+- [tklearn](https://github.com/vladi-iit/tklearn) - ⭐ 1 - [Vladimir Kostic](https://github.com/vladi-iit)
 - [LaRRR](https://github.com/vladi-iit/LaRRR) - [Vladimir Kostic](https://github.com/vladi-iit)
 - [RMOT](https://github.com/vladi-iit/RMOT) - [Vladimir Kostic](https://github.com/vladi-iit)
-- [tklearn](https://github.com/vladi-iit/tklearn) - [Vladimir Kostic](https://github.com/vladi-iit)
 - [DelayDependentPayoffs](https://github.com/LeonardoCella/DelayDependentPayoffs) - [Leonardo Cella](https://github.com/LeonardoCella)
 - [featureLearningBan](https://github.com/LeonardoCella/featureLearningBan) - [Leonardo Cella](https://github.com/LeonardoCella)
 
