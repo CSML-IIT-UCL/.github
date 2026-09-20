@@ -1,6 +1,6 @@
 # Popular Repos
 
-- [hypertorch](https://github.com/prolearner/hypertorch) - ⭐ 126 🍴 17 - [Riccardo Grazzi](https://github.com/prolearner)
+- [hypertorch](https://github.com/prolearner/hypertorch) - ⭐ 127 🍴 17 - [Riccardo Grazzi](https://github.com/prolearner)
 - [MorphoSymm](https://github.com/Danfoa/MorphoSymm) - ⭐ 108 🍴 5 - [Daniel Ordonez](https://github.com/Danfoa)
 - [franken](https://github.com/CSML-IIT-UCL/franken) - ⭐ 30 🍴 6 - [CSML](https://github.com/CSML-IIT-UCL)
 - [hyper-representation](https://github.com/prolearner/hyper-representation) - ⭐ 29 🍴 9 - [Riccardo Grazzi](https://github.com/prolearner)
