@@ -1,22 +1,13 @@
 # Popular Repos
 
 - [hypertorch](https://github.com/prolearner/hypertorch) - ⭐ 127 🍴 17 - [Riccardo Grazzi](https://github.com/prolearner)
-- [MorphoSymm](https://github.com/Danfoa/MorphoSymm) - ⭐ 108 🍴 5 - [Daniel Ordonez](https://github.com/Danfoa)
 - [franken](https://github.com/CSML-IIT-UCL/franken) - ⭐ 30 🍴 6 - [CSML](https://github.com/CSML-IIT-UCL)
 - [hyper-representation](https://github.com/prolearner/hyper-representation) - ⭐ 29 🍴 9 - [Riccardo Grazzi](https://github.com/prolearner)
-- [RED](https://github.com/RuohanW/RED) - ⭐ 29 🍴 7 - [Ruohan Wang](https://github.com/RuohanW)
 - [linear_operator_learning](https://github.com/CSML-IIT-UCL/linear_operator_learning) - ⭐ 14 - [CSML](https://github.com/CSML-IIT-UCL)
-- [magan](https://github.com/RuohanW/magan) - ⭐ 10 🍴 4 - [Ruohan Wang](https://github.com/RuohanW)
 - [NCP](https://github.com/CSML-IIT-UCL/NCP) - ⭐ 7 🍴 2 - [CSML](https://github.com/CSML-IIT-UCL)
 - [powr](https://github.com/CSML-IIT-UCL/powr) - ⭐ 7 🍴 4 - [CSML](https://github.com/CSML-IIT-UCL)
-- [Tasml](https://github.com/RuohanW/Tasml) - ⭐ 6 🍴 1 - [Ruohan Wang](https://github.com/RuohanW)
-- [encoderops](https://github.com/pietronvll/encoderops) - ⭐ 4 - [Pietro Novelli](https://github.com/Pietronvll)
 - [RMOT](https://github.com/CSML-IIT-UCL/RMOT) - ⭐ 3 - [CSML](https://github.com/CSML-IIT-UCL)
 - [onlineLTL](https://github.com/prolearner/onlineLTL) - ⭐ 3 🍴 1 - [Riccardo Grazzi](https://github.com/prolearner)
 - [bioptexps](https://github.com/CSML-IIT-UCL/bioptexps) - ⭐ 2 - [CSML](https://github.com/CSML-IIT-UCL)
 - [GMFbandits](https://github.com/CSML-IIT-UCL/GMFbandits) - ⭐ 2 - [CSML](https://github.com/CSML-IIT-UCL)
-- [DPNets](https://github.com/pietronvll/DPNets) - ⭐ 2 - [Pietro Novelli](https://github.com/Pietronvll)
-- [operator_learning](https://github.com/pietronvll/operator_learning) - ⭐ 2 - [Pietro Novelli](https://github.com/Pietronvll)
-- [DelayDependentPayoffs](https://github.com/LeonardoCella/DelayDependentPayoffs) - [Leonardo Cella](https://github.com/LeonardoCella)
-- [featureLearningBan](https://github.com/LeonardoCella/featureLearningBan) - [Leonardo Cella](https://github.com/LeonardoCella)
 
